@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/master.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Array.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Array.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Array.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Array~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Array.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/CaseIterable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CaseIterable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CaseIterable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CaseIterable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CaseIterable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Codable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Codable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Codable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Codable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Codable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/CodableSupport.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CodableSupport.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CodableSupport.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CodableSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CodableSupport.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Collections.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Collections.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Collections.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Collections~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Collections.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Concurrency.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Concurrency.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Concurrency.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Concurrency.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/CoreGraphics.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CoreGraphics.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CoreGraphics.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CoreGraphics~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CoreGraphics.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/CustomStringConvertible.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CustomStringConvertible.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CustomStringConvertible.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CustomStringConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/CustomStringConvertible.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Dictionary.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Dictionary.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Dictionary.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Dictionary~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Dictionary.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Equatable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Equatable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Equatable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Equatable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Equatable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Error.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Error.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Error.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Error.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Globals.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Globals.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Globals.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Globals~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Globals.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Hashable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Hashable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Hashable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Hashable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Hashable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Identifiable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Identifiable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Identifiable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Identifiable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Identifiable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Math.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Math.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Math.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Math~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Math.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Numbers.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Numbers.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Numbers.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Numbers~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Numbers.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/OptionSet.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/OptionSet.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/OptionSet.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/OptionSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/OptionSet.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Optional.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Optional.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Optional.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Optional~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Optional.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Pointer.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Pointer.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Pointer.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Pointer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Pointer.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/RawRepresentable.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/RawRepresentable.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/RawRepresentable.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/RawRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/RawRepresentable.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Result.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Result.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Result.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Result.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/Set.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Set.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Set.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Set~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/Set.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/SetAlgebra.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SetAlgebra.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SetAlgebra.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SetAlgebra~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SetAlgebra.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/SkipLib.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SkipLib.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SkipLib.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SkipLib~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/SkipLib.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/checkouts/skip-lib/Sources/SkipLib/String.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/String.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/String.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/String.swiftdeps"
+  },
+  "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/resource_bundle_accessor.d",
+    "object": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipLib.build/resource_bundle_accessor.swiftdeps"
+  }
+}

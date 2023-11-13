@@ -1,0 +1,4 @@
+module SkipCollab {
+    header "/Users/ganesh/Desktop/skip-collab/.build/arm64-apple-macosx/debug/SkipCollab.build/SkipCollab-Swift.h"
+    requires objc
+}
